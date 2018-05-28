@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "2518cdb546dd3c25ee267b10f0fe1202"
+build_time: [1527485379, 637573000]
+inputs:
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/VerticalCollectionViewCell.swift": [1527481725, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/AppDelegate.swift": [1527258942, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/NSObject+ClassName.swift": [1527470653, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/MenuCollectionProvider.swift": [1527479868, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/MenuViewController.swift": [1527480489, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/MenuCollectionViewCell.swift": [1527479821, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/VerticalCollectionProvider.swift": [1527482265, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/HorizontalCollectionViewCell.swift": [1527485379, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/UIStoryboard+Instance.swift": [1527470653, 0]
+  "/Users/jackwong/Desktop/Developer/MercaniStyleSample/MercaniStyleSample/HorizontalCollectionProvider.swift": [1527483615, 0]
